@@ -1,3 +1,3 @@
 # simplescan
 
-You can scan multiple subdomains for sensitive files at once.
+You can scan multiple domains/subdomains for sensitive files at once.
